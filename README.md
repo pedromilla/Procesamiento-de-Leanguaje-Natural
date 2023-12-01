@@ -1,4 +1,4 @@
-# Procesamiento de Leanguaje Natural
+# Procesamiento de Lenguaje Natural
 
 Para este trabajo, se tomaron los textos registrados en el proceso constituyente 2016, segmentando los registros por lo que abarca a la institución de Fuerzas Armadas. El análisis consta de un pre procesamiento de los datos, limpiando los textos de palabras redundantes, puntuaciones, símbolos que no aportan valor al análisis; y no considerando registros con frases inferiores a dos palabras; para posteriormente realizar un análisis con técnicas avanzadas que se irán explicando.
 En primera instancia, se utilizarán técnicas de modelamiento de tópicos, disciplina perteneciente al Procesamiento de Lenguaje Natural, que, a su vez, forma parte del Machine Learning. Básicamente, se utilizan modelos estadísticos para identificar temas o estructuras semánticas presentes en grandes cantidades de texto, sin tener que leer todo, optimizando el análisis y respaldado por métodos científicos que nos dan la tranquilidad de que estamos ejecutando un correcto proceso.
